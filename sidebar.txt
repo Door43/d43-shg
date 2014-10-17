@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shg:home|Door43 (shg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shg|d43-shg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shg/archive/master.zip|d43-shg.zip]]
+
+**Recent Changes**
+{{changes>ns = shg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shg|Ethnologue data]]
+
